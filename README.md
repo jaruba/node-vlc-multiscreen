@@ -1,7 +1,7 @@
 # WebChimera.js Player Multiscreen Demo
 **Description:**
 
-Demo for [wcjs-player](https://github.com/jaruba/wcjs-player))'s Multiscreen Feature showing WebChimera.js Player playing 4 videos at the same time. This is a special feature that has been requested numerous times in the past, it is usually used for surveilance cam software.
+Demo for [wcjs-player](https://github.com/jaruba/wcjs-player)'s Multiscreen Feature showing WebChimera.js Player playing 4 videos at the same time. This is a special feature that has been requested numerous times in the past, it is usually used for surveillance cam software.
 
 ``wcjs-player`` uses [WebChimera.js](https://github.com/RSATom/WebChimera.js) to draw the frames of libVLC to a canvas.
 
