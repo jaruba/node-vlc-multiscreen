@@ -22,4 +22,4 @@ Demo for [wcjs-player](https://github.com/jaruba/wcjs-player)'s Multiscreen Feat
 
 WebChimera.js Player Multiscreen Demo running on NW.js (Windows)
 
-<img src="http://webchimera.org/samples/wcjs-player-multiscreen.png">
+<img src="http://webchimera.org/samples/wcjs-player-5.png">
