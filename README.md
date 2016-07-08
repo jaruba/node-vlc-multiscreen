@@ -19,7 +19,7 @@ cd node-vlc-multiscreen
 **Windows**
 ```
 set WCJS_RUNTIME=electron
-set WCJS_RUNTIME_VERSION=0.37.6
+set WCJS_RUNTIME_VERSION=v0.37.6
 set WCJS_VERSION=0.2.5
 set WCJS_ARCH=ia32
 ```
@@ -27,7 +27,7 @@ set WCJS_ARCH=ia32
 **OSX/Linux**
 ```
 export WCJS_RUNTIME="electron"
-export WCJS_RUNTIME_VERSION="0.37.6"
+export WCJS_RUNTIME_VERSION="v0.37.6"
 export WCJS_VERSION="0.2.5"
 export WCJS_ARCH="ia32"
 ```
